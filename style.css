@@ -39,7 +39,7 @@
 
 /* ini bagian hero */
 .hero{
-    background-image: url(assets/img/hero.png);
+    background-image: url(hero.png);
     height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -108,13 +108,13 @@
 }
 
 .koleksi .card1{
-    background-image: url(assets/img/banner1.jpg);
+    background-image: url(banner1.jpg);
 }
 .koleksi .card2{
-    background-image: url(assets/img/banner2.jpg);
+    background-image: url(banner2.jpg);
 }
 .koleksi .card3{
-    background-image: url(assets/img/banner3.jpg);
+    background-image: url(banner3.jpg);
 }
 
 .koleksi .card{
